@@ -1,0 +1,11 @@
+.form-control{
+    padding: 0; /* reset padding */
+    padding-left: 5px;
+    padding-right: 5px;
+}
+.form-group label{
+    text-align: right;
+}
+.form-group{
+    display: flex;
+}
